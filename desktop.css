@@ -1,0 +1,114 @@
+/* For desktop: */
+.col-1 {
+   width: 8.33%;
+}
+.col-2 {
+   width: 16.66%;
+}
+.col-3 {
+   width: 25%;
+}
+.col-4 {
+   width: 33.33%;
+}
+.col-5 {
+   width: 41.66%;
+}
+.col-6 {
+   width: 50%;
+}
+.col-7 {
+   width: 58.33%;
+}
+.col-8 {
+   width: 66.66%;
+}
+.col-9 {
+   width: 75%;
+}
+.col-10 {
+   width: 83.33%;
+}
+.col-11 {
+   width: 91.66%;
+}
+.col-12 {
+   width: 100%;
+}
+/* navbar section start  */
+.row {
+   /* display: flex;
+   justify-content: end;
+   align-items: center; */
+}
+.navbar {
+   height: 80px;
+}
+.navbar .logo {
+   margin: 0 5px;
+   width: 80px;
+   height: 70px;
+   padding: 7px;
+   float: left;
+}
+.navbar ul {
+   float: right;
+   display: inline-flex;
+   margin: 20px 0;
+}
+.navbar li {
+   padding: 3px 10px;
+   width: 140px;
+}
+
+.navbar li:hover {
+   background: #000;
+}
+.navbar li a {
+   padding: 2px;
+}
+/* navbar section end  */
+/* banner start hare  */
+.banner-content {
+   height: 500px;
+}
+.banner-content h1 {
+   width: 50%;
+   margin-bottom: 40px;
+}
+.banner-content h1:hover {
+   transform: scale(1.1);
+   transition: 1s;
+}
+.banner-content h4 {
+   text-align: center;
+   width: 50%;
+   margin: 20px auto;
+   font-size: 2.5rem;
+}
+.banner-content .btn {
+   padding: 10px 15px;
+   background: #1cf504;
+   color: #000;
+   font-size: 1.5rem;
+}
+/* banner end hare  */
+/* food menu start hare  */
+.food-menu h1 {
+   width: 90%;
+}
+/* food menu start hare  */
+/* footer section star  */
+
+.footer-menu {
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+}
+.footer hr {
+   display: none;
+}
+.footer-des {
+   margin-left: 80px;
+}
+/* footer section star  */
