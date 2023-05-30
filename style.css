@@ -185,7 +185,7 @@ font-family: 'Satisfy', cursive; */
 .food-menu .beef-items {
    width: 100%;
    height: 250px;
-   background-image: url("./images/iteam2.jpg");
+   background-image: url("./images/item2.jpg");
    background-repeat: no-repeat;
    background-position: center;
    background-size: cover;
@@ -196,7 +196,7 @@ font-family: 'Satisfy', cursive; */
 .food-menu .fish-items {
    width: 100%;
    height: 250px;
-   background-image: url("./images/iteam3.jpg");
+   background-image: url("./images/item3.jpg");
    background-repeat: no-repeat;
    background-position: center;
    background-size: cover;
